@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetoDisciplina</string>
+    <string name="btn_busca_lista">Listar Paises</string>
+    <string-array name="listaContinentes">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>
