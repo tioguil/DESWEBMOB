@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWord</string>
+    <string name="hello_word">Meu primeiro App</string>
+</resources>
