@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.ViewGroup;
 import android.widget.TextView;
+/**
+ * Guilherme brito dos santos - ra 81617569
+ */
+
 
 public class DisplayMessageActivity extends AppCompatActivity {
 

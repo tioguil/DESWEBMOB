@@ -9,6 +9,10 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
+/**
+ * Guilherme brito dos santos - ra 81617569
+ */
+
 public class MainActivity extends AppCompatActivity {
     public final static String EXTRA_MESSAGE = "com.guilherme.usjtapp.MESSAGE";
 
