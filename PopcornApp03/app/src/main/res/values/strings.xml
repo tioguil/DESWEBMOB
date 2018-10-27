@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopcornApp</string>
+    <string name="search_genero">Escolha um genêro</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="condition_image">img</string>
+    <string name="lorem">O filme mostra as aventuras de João Grilo e Chicó, dois nordestinos pobres que vivem de golpes para sobreviver. Eles estão sempre enganando o povo de um pequeno vilarejo no sertão da Paraíba, inclusive o temido cangaceiro Severino de Aracaju, </string>
+    <string name="uri_listFilmes">https://api.themoviedb.org/3/discover/movie?api_key=ba02ba3940567f892d3e69e3e07034e5&amp;language=pt-BR&amp;with_genres=</string>
+    <string name="uri_genres">https://api.themoviedb.org/3/genre/movie/list?api_key=ba02ba3940567f892d3e69e3e07034e5&amp;language=pt-BR</string>
+    <string name="uri_image">https://image.tmdb.org/t/p/w300/</string>
+    <string name="uri_director">https://api.themoviedb.org/3/movie/%s/credits?api_key=ba02ba3940567f892d3e69e3e07034e5</string>
+</resources>
